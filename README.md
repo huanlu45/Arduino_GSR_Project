@@ -1,2 +1,2 @@
-# datavisualization
-<!--<img src="images/1.png">-->
+Arduino GSR project working on progress
+<br /> We want to enable users better understanding other person's emotions on digital communication. 
